@@ -1,0 +1,14 @@
+layout_spectrum: 0.1787631
+typography_spectrum: 0.3360212
+color:
+  saturation: 0.8170809
+  lightness: 0.709258
+  brandStrength: 0.6539605
+  rhythmicContrast: 0.4448386
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: WM Forbes
