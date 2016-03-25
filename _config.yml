@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.3360212
 color:
-  saturation: 0.8170809
-  brandStrength: 0.6539605
-  lightness: 0.709258
   brandColors:
     - '#FFFFFF'
     - '#D00331'
     - '#676B6E'
     - '#D6D7D9'
     - '#8F9093'
+  brandStrength: 0.6539605
+  lightness: 0.709258
   rhythmicContrast: 0.4448386
+  saturation: 0.8170809
 layout_spectrum: 0.1787631
 name: WM Forbes
+typography_spectrum: 0.3360212
